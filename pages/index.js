@@ -60,7 +60,7 @@ export default function Home({ pokemones, minimimosDatos, tipos, notFound }) {
         </div>
 
         <div className={HomeCss.titulo}>
-          <h1>Pokemones</h1>
+          <h1>Pokédex</h1>
         </div>
         <div className={HomeCss.columnas}>
 

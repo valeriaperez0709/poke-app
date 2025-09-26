@@ -16,74 +16,74 @@ a {
 }
 
 .bug {
-  background: #aedf78;
+  background: rgb(102, 239, 102);
 }
 
 .water {
-  background: #43ccff;
+  background: rgb(108, 192, 244);
 }
 
 .grass {
-  background: #00ca91;
+  background: rgb(39, 229, 219);
 }
 
 .fire {
-  background: #e95c4d;
+  background: rgb(255, 94, 94);
 }
 
 .normal {
-  background: #a5a5a5;
+  background: rgb(109, 166, 166);
 }
 
 .poison {
-  background: #611380;
+  background: #d874ff;
 }
 
 .electric {
-  background: #f9be00;
+  background: #aaaa1a;
 }
 .ground {
-  background: #bfac21;
+  background: #5c4d30;
 }
 
 .fairy {
-  background: #f87ea7;
+  background: #a24cf8;
 }
 
 .fighting {
-  background: #e81319;
+  background: #ae3135;
 }
 .psychic {
-  background: #8a0532;
+  background: #934c64;
 }
 
 .ghost {
-  background: #8e55a4;
+  background: #6142d2;
 }
 .rock {
-  background: #776a3e;
+  background: rgb(86, 85, 85);
 }
 .ice {
-  background: #66d1e5;
+  background: #68798f;
 }
 .flying {
-  background: #5eb9b2;
+  background: #b8efff;
 }
 .dark {
   background: #2d221c;
 }
 
 .dragon {
-  background: #29036a;
+  background: #ec7b93;
 }
 
 .steel {
-  background: #7b8e8a;
+  background: #aad0c8;
 }
 .unknown {
-  background: #454545;
+  background: lightslategray;
 }
 
 .shadow {
-  background: #4f4f4f;
+  background: #d4b8b8;
 }
